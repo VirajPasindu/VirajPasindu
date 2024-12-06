@@ -1,4 +1,3 @@
-<h3 align="center">A passionate frontend developer and UI/UX designer from Sri Lanka</h3>
 <h1 align="center">Hi , I'm Viraj Pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+undergraduate;Competitive+Programmer;UI/UX+Designer;Always+learning+new+things"></a>
@@ -83,3 +82,9 @@
 
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;<h2>Git profile Trophies</h2></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=VirajPasindu&theme=juicyfresh&no-bg=true" />
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=VirajPasindu&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
