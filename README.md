@@ -30,6 +30,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,6 +39,9 @@
 </p>
 <br>
 <br>
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <table align="center">
 <tr border="none">
@@ -77,5 +81,5 @@
 
 
 
-<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;<h2>Git profile Trophies</h2></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=VirajPasindu&theme=juicyfresh&no-bg=true" />
