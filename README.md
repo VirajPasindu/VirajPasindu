@@ -29,11 +29,12 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<br>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,java,js,photoshop,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,java,js,photoshop,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode,&perline=19" />
   </a>
 </p>
 <br>
@@ -47,6 +48,7 @@
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<br>
 
 <table align="center">
 <tr border="none">
