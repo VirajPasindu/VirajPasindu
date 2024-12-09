@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,java,js,photoshop,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode,&perline=14" />
   </a>
 </p>
 <br>
