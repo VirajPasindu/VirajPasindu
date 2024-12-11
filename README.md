@@ -15,6 +15,8 @@
 - 🌱 I’m currently learning **MERN, JAVA, JavaScript, PYTHON & Mobile Application Developing...**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java & UI/UX...**
+  
+-  🤝 I’m available for freelancing in fiverr...
 
 - 📫 How to reach me **virajpasindu076@gmail.com**
 
