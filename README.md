@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently **an undergraduate at SLIIT...**
 
-- 🌱 I’m currently learning **MERN, JavaScript, PYTHON & Mobile Application Developing...**
+- 🌱 I’m currently learning **MERN, JAVA, JavaScript, PYTHON & Mobile Application Developing...**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java & UI/UX...**
   
