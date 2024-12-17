@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **virajpasindu076@gmail.com**
 
-- ⚡ Fun fact **A secret talent😁**
+- ⚡ Fun fact **Biggest fear - Errors in codes😒**
 
 
   
