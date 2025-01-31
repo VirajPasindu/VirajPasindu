@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently **an undergraduate at SLIIT...**
 
-
 - 💪 Self learner...
   
 - 🌱 I’m currently learning **MERN, JAVA, JavaScript, PYTHON & Mobile Application Developing...**
